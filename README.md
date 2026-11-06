@@ -19,10 +19,10 @@ Set these repository Actions secrets:
 - `AZURE_WEBAPP_NAME`: the Azure Web App name.
 - `AZURE_WEBAPP_PUBLISH_PROFILE`: the complete publish profile XML.
 
-The Azure Web App should use Linux with Node.js 24. Set its startup command to:
+The Azure Web App should use Linux with Node.js 22. Set its startup command to:
 
 ```text
 pm2 serve /home/site/wwwroot --no-daemon --spa
 ```
 
-The live site is [react-rocket](https://react-rocket-hffcbqfsfba7affa.westus3-01.azurewebsites.net/).
+The live site is [2weekbonus](https://2weekbonus-hacshvb6cmeuaqeq.westus3-01.azurewebsites.net/).
