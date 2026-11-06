@@ -23,4 +23,4 @@ The attached lab guide covers the GitHub Actions/Azure deployment sequence, but 
 
 
 Live Site:
-https://react-rocket-hffcbqfsfba7affa.westus3-01.azurewebsites.net/
+https://2weekbonus-hacshvb6cmeuaqeq.westus3-01.azurewebsites.net/
